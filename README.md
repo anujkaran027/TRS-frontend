@@ -1,9 +1,9 @@
 # TRS Frontend (React + Vite)
 
 > A modern travel recommendation platform built with **React**, **Vite**, and **React Router**.  
-> Powered by ML-driven suggestions from the [TMS Backend](https://github.com/anujkaran027/TRS-backend.git).
+> Powered by ML-driven suggestions from the [TRS Backend](https://github.com/anujkaran027/TRS-backend.git).
 
-**Live Demo:** [netlify.app](https://trs-frontend.netlify.app)
+**Live Demo:** [MapMate](https://trs-frontend.netlify.app)
 
 ---
 
